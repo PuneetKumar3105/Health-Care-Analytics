@@ -1,0 +1,1 @@
+This dashboard helps us to tell about the health of peoples according to their gender, according to age, according to health risk, according to weight. It also helps us to know about the health according to different occupations.
